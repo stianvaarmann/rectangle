@@ -13,4 +13,5 @@ else:
         else:
             P = 2 * (a + b)
             S = a * b
-            print(f'Ümbermõõt: {P}', (f'Pindala: {S}'))
+            print(f'Ümbermõõt: {P}', (f'Pindala: {S}')) 
+# f laseb printida ka muutujate väärtuseid
